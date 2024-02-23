@@ -2,13 +2,13 @@
 
 I'm a 20-year-old developer based in Surrey, Canada, and I'm passionate about crafting digital experiences.
 
-. Check out my <a href="">  website </a> to learn more about me.<br>
+. Check out my <a href="">  Website </a> to learn more about me.<br>
 . Explore my <a href="">  Git Hub </a> page where I share insights and learnings.<br>
 
 <h2> 📦 Toolbox </h2>
 
-Frontend Development: React.js | Tailwind Css | Vite | JavaScript | GSAP |  |  HTML | CSS  <br>
-Version Control: Git GitHub
+Frontend Development:   <em> `JavaScript` `HTML` `CSS` `Tailwind CSS` `React` `Vite` `GSAP` </em> <br>
+Version Control:  <em> `Git` `GitHub` </em>
 
 <h2> ✨ Fun Fact </h2> 
 
