@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1> Hey, I am Shubham 👋🏻 </h1>
 
-<!--
-**Shubham2543/Shubham2543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20-year-old developer based in Surrey, Canada, and I'm passionate about crafting digital experiences.
 
-Here are some ideas to get you started:
+. Check out my <a href="">  website </a> to learn more about me.<br>
+. Explore my <a href="">  Git Hub </a> page where I share insights and learnings.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 📦 Toolbox </h2>
+
+Frontend Development: React.js | Tailwind Css | Vite | JavaScript | GSAP |  |  HTML | CSS  <br>
+Version Control: Git GitHub
+
+<h2> ✨ Fun Fact </h2> 
+
+. Jujutsu Kaisen is my favorite anime. <br>
+. As a kid, I wanted to be an aeronautical Engineer. <br>
+. I love using Macbooks. <br>
+
+
+<h2> 📫 Contact </h2>
+For a quick response, DM me on <a href="https://www.linkedin.com/in/shubham-masih-3916922b5/"> LinkedIn. </a>
+
