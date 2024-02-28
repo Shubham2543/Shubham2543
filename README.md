@@ -13,7 +13,7 @@ Version Control:  <em> `Git` `GitHub` </em>
 <h2> ✨ Fun Fact </h2> 
 
 . Jujutsu Kaisen is my favorite anime. <br>
-. As a kid, I wanted to be an aeronautical Engineer. <br>
+. As a kid, I wanted to be an Aeronautical Engineer. <br>
 . I love using Macbooks. <br>
 
 
