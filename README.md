@@ -7,7 +7,7 @@ I'm a 20-year-old developer based in Surrey, Canada, and I'm passionate about cr
 
 <h2> 📦 Toolbox </h2>
 
-Frontend Development:   <em> `JavaScript` `HTML` `CSS` `Tailwind CSS` `Vite` `GSAP` </em> <br>
+Frontend Development:   <em> `JavaScript` `HTML` `CSS` `Tailwind CSS` `GSAP` </em> <br>
 Version Control:  <em> `Git` `GitHub` </em>
 
 <h2> ✨ Fun Fact </h2> 
