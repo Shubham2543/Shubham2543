@@ -3,7 +3,7 @@
 I'm a 20-year-old developer based in Surrey, Canada, and I'm passionate about crafting digital experiences.
 
 . Check out my <a href="">  Website </a> to learn more about me.<br>
-. Explore my <a href="https://github.com/Shubham2543">  Git Hub </a> page where I share insights and learnings.<br>
+. Explore my <a href="https://github.com/Shubham2543">  Git Hub </a> page where I share my work (Projects) and learnings.<br>
 
 <h2> 📦 Toolbox </h2>
 
