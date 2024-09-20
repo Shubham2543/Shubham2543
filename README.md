@@ -18,5 +18,5 @@ Version Control:  <em> `Git` `GitHub` </em>
 
 
 <h2> 📫 Contact </h2>
-For a quick response, DM me on <em> <a href="https://www.linkedin.com/in/shubham-masih-3916922b5/"> "LinkedIn" </a> </em>
+For a quick response, DM me on <em> <a href="https://www.linkedin.com/in/shubham-masih-3916922b5/"> LinkedIn </a> </em>
 
